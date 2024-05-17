@@ -1,0 +1,14 @@
+/*  TOPBAR CSS -- START HERE */
+@media(min-width:320px) and (max-width:767px){
+	.topbarNavigation li{
+		margin-right: 0px;
+		margin-bottom: 5px;
+	}
+	.topbarNavigation li a{
+		padding: 10px;
+		background: rgba(0, 0, 0, 0.1);
+		font-weight: 500;
+		text-transform: uppercase;
+	}
+}
+/*  TOPBAR CSS -- END'S HERE */
